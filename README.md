@@ -1,5 +1,5 @@
 # simple-rpi-zero-case
-Inkscape SVG and PDF files for the simple rpi zero case.
+Inkscape SVG and PDF files for the simple Raspberry Pi Zero case.  
 Raspberry Pi Zero のシンプルなケースのInkscape SVG と PDF ファイルです。
 
 ## License ライセンス
